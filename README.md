@@ -189,10 +189,6 @@ The application generates:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is part of a datathon competition. Please check with the organizers for specific licensing terms.
-
 ## 🆘 Support
 
 For questions or issues:
